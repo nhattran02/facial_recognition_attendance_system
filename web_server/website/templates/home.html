@@ -1,0 +1,24 @@
+{% extends "base.html" %} 
+
+{% block title %}Home{% endblock %}
+
+{% block content_code %}
+
+<div class="d-flex" id="wrapper">
+    <!-- Sidebar-->
+    <div class="border-end bg-white" id="sidebar-wrapper">
+        <div class="list-group">
+            <a class="list-group-item list-group-item-action list-group-item-light p-3 text-dark" href="{{ url_for('logic.device_connection') }}" style="width: 300px;">Device Connection</a>
+            <a class="list-group-item list-group-item-action list-group-item-light p-3 text-dark" href="{{ url_for('logic.attendance') }}" style="width: 300px;">Attendance</a>
+            <a class="list-group-item list-group-item-action list-group-item-light p-3 text-dark" href="{{ url_for('logic.import_data') }}" style="width: 300px;">Import Data</a>
+        </div>
+    </div>
+
+    <!-- Page content wrapper-->
+    {% block content_listgroup %} 
+
+    
+    {% endblock %}    
+</div>
+
+{% endblock %}

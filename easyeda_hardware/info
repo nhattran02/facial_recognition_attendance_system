@@ -1,0 +1,1170 @@
+{
+  "uuid": "507ce5845d75357680ce5a4b55208e86",
+  "path": "Offline/face_attendance_hw",
+  "name": "face_attendance_hw",
+  "content": "",
+  "created_at": "2024-09-30 15:34:33",
+  "updated_at": "2024-11-13 10:23:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1b0ddef8e70bed56fd738d58a538b7e5",
+      "title": "face_attendance_hw_sch",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "ebf87b771fca429b810052cffdd48e69": 1,
+        "b32c3199b40c4fb88a167721964f3749": 2,
+        "7b38cb36ae1f4edd85dd850deffb2b66": 1,
+        "02aff2ff6e514454bd8e9eaa83aa0cc7": 1,
+        "d0e756114b5e46a1ac478a0ebd66edc4": 2,
+        "d5b2c8bbd3fc468eafbf6751833f8272": 1,
+        "0a84343285e34abd80018d7675eb84f5": 1,
+        "b210af5a1436310a86e8b108e2e5a90b": 10,
+        "154b66255b01a09bf1c88bb1ea89be78": 14,
+        "3b6654f52e8f4e32b1ed9f858d357e92": 12,
+        "aa64069c079711d273b95521e3ce4b53": 1,
+        "8b277b04781fa5275cc35d15a83d4e29": 1,
+        "c6f2f5ce638ac4773900d0a2eff5f706": 1,
+        "5a162a30a65741b0bab0c81046af61fb": 1,
+        "4ac72201308d443b8d2002e83798b17d": 1,
+        "84c2144ef34d4b2cad3d4b2292c22a35": 2,
+        "dc91f7eee4ba4186b94e1f4418883aff": 1,
+        "a6c266577e724a748b12dc37cef2e66e": 1,
+        "5ff01e5b28266f76e3c6ac889a7fdd07": 2,
+        "596723c7bd6b474bbf86faf5bf90513d": 1,
+        "d3d53561ed954403a627d11e5ef1cbc9": 1,
+        "cf8e992a2f034c67a12692f84610ef5d": 2,
+        "6bc87021c356752573363354799bb887": 1,
+        "aab110333fb94017a18b8e2cf7338aac": 1,
+        "b9804cc65f04eb8a3f2b4055e02f5143": 12,
+        "597701dbde98d3183fe5df5fb870ec57": 5,
+        "f7efe87d2dc24cbd961ec896c775bd8d": 1,
+        "a9763b6f47714ce386e2a084a55bf7a8": 1,
+        "e592817b387babbcc557afdb1c2313b9": 3,
+        "41edd43627ca41a28dd37469e5ada1ed": 1,
+        "7455e3b319ed45449e797886f62d1e10": 1,
+        "2d1520ae0f6cf0b6d95e17d5112228e7": 1,
+        "855281e071454c0284e3b91e3bc8bd70": 1,
+        "c77d06771b19427da873ded721b090e1": 1,
+        "d6b6cebb631248b491c58a759cc58d0f": 1,
+        "a270f52b20684bb6bd7826fe1a7e21cf": 1,
+        "ef492d1e0de345afb105c8b234f678da": 1,
+        "a4f51b3c5ee947f59df6b3260da2a452": 1,
+        "262395a2ef064a0c95de76afed46908b": 1,
+        "1ed558c4e8874aa891a8f01b29ca928d": 1,
+        "db91cab4ecfe4926985698e965ad286b": 2
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          14,
+          "C0603",
+          "C1,C7,C9,C11,C14,C17,C19,C21,C22,C24,C25,C28,C31,C32",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          12,
+          "C0603",
+          "C2,C3,C5,C6,C10,C13,C15,C16,C18,C20,C23,C27",
+          {
+            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1691"
+          }
+        ],
+        [
+          "22pF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Manufacturer Part": "CC0603JRNPO9BN220",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105620"
+          }
+        ],
+        [
+          "47uF",
+          2,
+          "CAP-SMD_BD8.0-L8.3-W8.3-FD",
+          "C8,C12",
+          {
+            "Manufacturer Part": "EEEFC1E470AP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C401622"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C26",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "4.7uF",
+          3,
+          "C0603",
+          "C29,C30,C33",
+          {
+            "Manufacturer Part": "CL10A475KP8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1705"
+          }
+        ],
+        [
+          "TF-012D",
+          1,
+          "TF-SMD_TF-012",
+          "CARD1",
+          {
+            "Manufacturer Part": "TF-012D",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2874207"
+          }
+        ],
+        [
+          "Terminal Block",
+          1,
+          "CONN-TH_3P-P5.08_WJ2EDGV-5.08-3P",
+          "CN1",
+          {
+            "Manufacturer Part": "WJ2EDGV-5.08-3P",
+            "Manufacturer": "KANGNEX(康奈克斯电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8438"
+          }
+        ],
+        [
+          "PM2.0-1X6P",
+          1,
+          "HDR-TH_6P-P2.00-V-F",
+          "CN2",
+          {
+            "Manufacturer Part": "HX PM2.0-1x6P ZC",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22438138"
+          }
+        ],
+        [
+          "SS24A",
+          2,
+          "SMA_L4.4-W2.6-LS5.0-RD",
+          "D1,D5",
+          {
+            "Manufacturer Part": "SS24",
+            "Manufacturer": "LGE(鲁光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C362422"
+          }
+        ],
+        [
+          "LESD5D5.0CT1G",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-BI",
+          "D2",
+          {
+            "Manufacturer Part": "LESD5D5.0CT1G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383211"
+          }
+        ],
+        [
+          "LESD8D3.3CT5G",
+          2,
+          "SOD-882_L1.0-W0.6-BI",
+          "D3,D4",
+          {
+            "Manufacturer Part": "LESD8D3.3CT5G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C172410"
+          }
+        ],
+        [
+          "1N4007",
+          1,
+          "SMA_L4.3-W2.6-LS5.1-RD",
+          "D6",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2909831"
+          }
+        ],
+        [
+          "FPC-05FB-24PH20",
+          1,
+          "FPC-SMD_24P-P0.50_FPC-05FB-24PH20",
+          "FPC1",
+          {
+            "Manufacturer Part": "FPC-05FB-24PH20",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2856831"
+          }
+        ],
+        [
+          "LCD-ILI9341-2.4INCH",
+          1,
+          "HDR-TH_8P-P2.54-V-F",
+          "H1",
+          {
+            "Manufacturer Part": "PM2.54-1*8",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5224027"
+          }
+        ],
+        [
+          "G5LE-1-DC5",
+          1,
+          "RELAY-TH_G5LE-1-XX",
+          "K1",
+          {
+            "Manufacturer Part": "G5LE-1 DC5",
+            "Manufacturer": "OMRON(欧姆龙)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C152704"
+          }
+        ],
+        [
+          "SDCW1210U-2-900TF",
+          1,
+          "FILTER-SMD_4P-L1.2-W1.0-BL",
+          "L1",
+          {
+            "Manufacturer Part": "SDCW1210U-2-900TF",
+            "Manufacturer": "Sunlord(顺络)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C843590"
+          }
+        ],
+        [
+          "2.2uH",
+          1,
+          "L0805",
+          "L2",
+          {
+            "Manufacturer Part": "CMI201209U2R2KT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1043"
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "LED0603-R-RD_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "SZYY0603YG",
+            "Manufacturer": "yongyu(永裕光电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C434423"
+          }
+        ],
+        [
+          "AO3401",
+          1,
+          "SOT-23-3_L2.9-W1.4-P1.90-LS2.6-BR",
+          "Q1",
+          {
+            "Manufacturer Part": "AO3401",
+            "Manufacturer": "TWGMC(台湾迪嘉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C727156"
+          }
+        ],
+        [
+          "10kΩ",
+          10,
+          "R0603",
+          "R1,R6,R11,R12,R13,R18,R19,R41,R42,R43",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "680kΩ",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Manufacturer Part": "0603WAF6803T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25822"
+          }
+        ],
+        [
+          "150kΩ",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "0603WAF1503T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22807"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "0Ω",
+          12,
+          "R0402",
+          "R7,R8,R14,R15,R16,R17,R20,R21,R22,R23,R24,R26",
+          {
+            "Manufacturer Part": "0402WGF0000TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17168"
+          }
+        ],
+        [
+          "1kΩ",
+          5,
+          "R0603",
+          "R9,R10,R44,R45,R46",
+          {
+            "Manufacturer Part": "0603WAF1001T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C21190"
+          }
+        ],
+        [
+          "2kΩ",
+          1,
+          "R0402",
+          "R25",
+          {
+            "Manufacturer Part": "0402WGF2001TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4109"
+          }
+        ],
+        [
+          "SK12D07VG4",
+          1,
+          "SW-TH_SK12D07VG4",
+          "SW1",
+          {
+            "Manufacturer Part": "SK12D07VG4",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393937"
+          }
+        ],
+        [
+          "BOOT",
+          1,
+          "SW-SMD_ST-1185SE",
+          "SW2",
+          {
+            "Manufacturer Part": "ST-1185SE",
+            "Manufacturer": "RISHENG(日昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C589193"
+          }
+        ],
+        [
+          "RESET",
+          1,
+          "SW-SMD_ST-1185SE",
+          "SW3",
+          {
+            "Manufacturer Part": "ST-1185SE",
+            "Manufacturer": "RISHENG(日昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C589193"
+          }
+        ],
+        [
+          "SY8088IAAC",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL",
+          "U1",
+          {
+            "Manufacturer Part": "SY8088IAAC",
+            "Manufacturer": "silergy(矽力杰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C479072"
+          }
+        ],
+        [
+          "MCP23017-E/SO",
+          1,
+          "SOIC-28_L18.0-W7.5-P1.27-LS10.3-BL",
+          "U2",
+          {
+            "Manufacturer Part": "MCP23017-E/SO",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C47023"
+          }
+        ],
+        [
+          "JACK DC",
+          1,
+          "BARREL JACK DC",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-5.0",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U4",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "KEXIN(科信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C489390"
+          }
+        ],
+        [
+          "ME6211C28M5G",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U5",
+          {
+            "Manufacturer Part": "ME6211C28M5G-N",
+            "Manufacturer": "MICRONE(南京微盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53099"
+          }
+        ],
+        [
+          "4x4 Matrix Keypad",
+          1,
+          "HDR-TH_10P-P2.54-V-F",
+          "U6",
+          {
+            "Manufacturer Part": "PM2.54-1*10",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5116489"
+          }
+        ],
+        [
+          "ME6211C15M5G",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U7",
+          {
+            "Manufacturer Part": "ME6211C15M5G-N",
+            "Manufacturer": "MICRONE(南京微盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53100"
+          }
+        ],
+        [
+          "ESP32-S3-WROOM-1U-N16R8",
+          1,
+          "WIRELM-SMD_ESP32-S3-WROOM-1U",
+          "U8",
+          {
+            "Manufacturer Part": "ESP32-S3-WROOM-1U-N16R8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3013946"
+          }
+        ],
+        [
+          "PC817C-S",
+          1,
+          "SOP-4_L6.5-W4.6-P2.54-LS10.3-TL",
+          "U9",
+          {
+            "Manufacturer Part": "PC817C-S",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3008369"
+          }
+        ],
+        [
+          "S8050-MS",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U10",
+          {
+            "Manufacturer Part": "S8050-MS",
+            "Manufacturer": "MSKSEMI(美森科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5120746"
+          }
+        ],
+        [
+          "YLED0603R",
+          1,
+          "LED0603-FD",
+          "U11",
+          {
+            "Manufacturer Part": "YLED0603R",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171390"
+          }
+        ],
+        [
+          "RED",
+          1,
+          "LED0603-FD",
+          "U12",
+          {
+            "Manufacturer Part": "YLED0603R",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171390"
+          }
+        ],
+        [
+          "MICROXNJ",
+          1,
+          "MICRO-USB-SMD_MICROXNJ",
+          "USB1",
+          {
+            "Manufacturer Part": "MicroXNJ",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C404969"
+          }
+        ]
+      ],
+      "updateTime": 1728526976,
+      "createTime": 1727685274,
+      "histories": [],
+      "created_at": "2024-09-30 15:34:34",
+      "updated_at": "2024-10-10 09:22:56"
+    },
+    {
+      "uuid": "9da6b4dcb932e2e6fc10fde0b23cf54b",
+      "puuid": "507ce5845d75357680ce5a4b55208e86",
+      "title": "PCB_face_attendance_hw",
+      "filename": "PCB_face_attendance_hw.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 31,
+        "e639687977d3435d86c43a66dc16c6af": 2,
+        "40c05886860b4c00b8eb336cb30bd326": 1,
+        "9a5a806c7f17431d88dce6fe1d7105bd": 1,
+        "a15de2544ece46d381cc75ec6346f35c": 1,
+        "6f2d54427ac94617a7b88c27da4b513c": 2,
+        "83d2c26c897548478611a7b637e39735": 1,
+        "21b63a6f576642699c960d78d9339770": 2,
+        "2b64a4a35f964dc79d4564c8971337ab": 1,
+        "a2365841f454457390f178da5e6ade00": 1,
+        "b716fa3700784db29b7ad404bc6e6844": 1,
+        "2b9c3a4faa204dcab97c5da8e6638428": 1,
+        "55b00d2b8ca64ef2b8992789a8ce4ea3": 1,
+        "bcc8ca20dcc84ccfa139b07aa569efaf": 1,
+        "6b6c8ff5ed094bb6915ccd2645c9d55f": 1,
+        "a1556cc7b61b48d7acf1f1a0ab07b62e": 1,
+        "398691f1f785460098bbe5ee6590333c": 19,
+        "fafd024f554e426eb74cf4a204aa88b0": 13,
+        "11c86521d7074c9db7a8a9920d6fdd47": 1,
+        "0c7c7ceef2ad44eeb318fed7be6f2085": 2,
+        "a801549ddf8f431796761cd071417387": 1,
+        "25448c758a6849a891c759ab99d84b68": 1,
+        "f9c4b2db7e01458cb0ea07a51f992f9b": 1,
+        "09952c2799c54b76904e264324ada8f3": 1,
+        "e7f085e4f71344109c090040716070ab": 2,
+        "17eda053266b4cdca86c67384ca2b6c2": 1,
+        "005f5c9887fe4df0bcb2693bc1357a87": 1,
+        "f51ff88e9eeb431b89599f4036ffec14": 1,
+        "bade90667a6e4731855e9a223387b8a6": 1,
+        "b2142ad37752444c81455a204d85065a": 2,
+        "53bbe01a5e5c4958ba8b22d279d0d9e5": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100nF",
+          15,
+          "C0603",
+          "C1,C7,C9,C11,C14,C17,C19,C21,C22,C24,C25,C28,C31,C32,C35",
+          {
+            "Manufacturer Part": "CC0603KRX7R9BB104",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C14663"
+          }
+        ],
+        [
+          "10uF",
+          13,
+          "C0603",
+          "C2,C3,C5,C6,C10,C13,C15,C16,C18,C20,C23,C27,C34",
+          {
+            "Manufacturer Part": "CL10A106MQ8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1691"
+          }
+        ],
+        [
+          "22pF",
+          1,
+          "C0603",
+          "C4",
+          {
+            "Manufacturer Part": "CC0603JRNPO9BN220",
+            "Manufacturer": "YAGEO(国巨)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C105620"
+          }
+        ],
+        [
+          "1uF",
+          1,
+          "C0603",
+          "C26",
+          {
+            "Manufacturer Part": "CL10A105KO8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1592"
+          }
+        ],
+        [
+          "4.7uF",
+          3,
+          "C0603",
+          "C29,C30,C33",
+          {
+            "Manufacturer Part": "CL10A475KP8NNNC",
+            "Manufacturer": "SAMSUNG(三星)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1705"
+          }
+        ],
+        [
+          "47uF",
+          2,
+          "CAP-SMD_BD8.0-L8.3-W8.3-FD",
+          "C8,C12",
+          {
+            "Manufacturer Part": "EEEFC1E470AP",
+            "Manufacturer": "PANASONIC(松下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C401622"
+          }
+        ],
+        [
+          "TF-012D",
+          1,
+          "TF-SMD_TF-012",
+          "CARD1",
+          {
+            "Manufacturer Part": "TF-012D",
+            "Manufacturer": "HANBO(汉博)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2874207"
+          }
+        ],
+        [
+          "Terminal Block",
+          1,
+          "CONN-TH_3P-P5.08_WJ2EDGV-5.08-3P",
+          "CN1",
+          {
+            "Manufacturer Part": "WJ2EDGV-5.08-3P",
+            "Manufacturer": "KANGNEX(康奈克斯电气)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C8438"
+          }
+        ],
+        [
+          "PM2.0-1X6P",
+          1,
+          "HDR-TH_6P-P2.00-V-F",
+          "CN2",
+          {
+            "Manufacturer Part": "HX PM2.0-1x6P ZC",
+            "Manufacturer": "hanxia(韩下)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22438138"
+          }
+        ],
+        [
+          "SS24A",
+          2,
+          "SMA_L4.4-W2.6-LS5.0-RD",
+          "D1,D5",
+          {
+            "Manufacturer Part": "SS24",
+            "Manufacturer": "LGE(鲁光)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C362422"
+          }
+        ],
+        [
+          "LESD5D5.0CT1G",
+          1,
+          "SOD-523_L1.2-W0.8-LS1.6-BI",
+          "D2",
+          {
+            "Manufacturer Part": "LESD5D5.0CT1G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C383211"
+          }
+        ],
+        [
+          "LESD8D3.3CT5G",
+          2,
+          "SOD-882_L1.0-W0.6-BI",
+          "D3,D4",
+          {
+            "Manufacturer Part": "LESD8D3.3CT5G",
+            "Manufacturer": "LRC(乐山无线电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C172410"
+          }
+        ],
+        [
+          "1N4007",
+          1,
+          "SMA_L4.3-W2.6-LS5.1-RD",
+          "D6",
+          {
+            "Manufacturer Part": "1N4007",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2909831"
+          }
+        ],
+        [
+          "FPC-05FB-24PH20",
+          1,
+          "FPC-SMD_24P-P0.50_FPC-05FB-24PH20",
+          "FPC1",
+          {
+            "Manufacturer Part": "FPC-05FB-24PH20",
+            "Manufacturer": "XUNPU(讯普)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C2856831"
+          }
+        ],
+        [
+          "LCD-ILI9341-2.4INCH",
+          1,
+          "HDR-TH_8P-P2.54-V-F",
+          "H1",
+          {
+            "Manufacturer Part": "PM2.54-1*8",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5224027"
+          }
+        ],
+        [
+          "G5LE-1-DC5",
+          1,
+          "RELAY-TH_G5LE-1-XX",
+          "K1",
+          {
+            "Manufacturer Part": "G5LE-1 DC5",
+            "Manufacturer": "OMRON(欧姆龙)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C152704"
+          }
+        ],
+        [
+          "SDCW1210U-2-900TF",
+          1,
+          "FILTER-SMD_4P-L1.2-W1.0-BL",
+          "L1",
+          {
+            "Manufacturer Part": "SDCW1210U-2-900TF",
+            "Manufacturer": "Sunlord(顺络)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C843590"
+          }
+        ],
+        [
+          "2.2uH",
+          1,
+          "L0805",
+          "L2",
+          {
+            "Manufacturer Part": "CMI201209U2R2KT",
+            "Manufacturer": "FH(风华)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C1043"
+          }
+        ],
+        [
+          "GREEN",
+          1,
+          "LED0603-R-RD_GREEN",
+          "LED1",
+          {
+            "Manufacturer Part": "SZYY0603YG",
+            "Manufacturer": "yongyu(永裕光电)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C434423"
+          }
+        ],
+        [
+          "AO3401",
+          1,
+          "SOT-23-3_L2.9-W1.4-P1.90-LS2.6-BR",
+          "Q1",
+          {
+            "Manufacturer Part": "AO3401",
+            "Manufacturer": "TWGMC(台湾迪嘉)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C727156"
+          }
+        ],
+        [
+          "10kΩ",
+          10,
+          "R0603",
+          "R1,R6,R11,R12,R13,R18,R19,R41,R42,R43",
+          {
+            "Manufacturer Part": "0603WAF1002T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25804"
+          }
+        ],
+        [
+          "680kΩ",
+          1,
+          "R0603",
+          "R2",
+          {
+            "Manufacturer Part": "0603WAF6803T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25822"
+          }
+        ],
+        [
+          "150kΩ",
+          1,
+          "R0603",
+          "R3",
+          {
+            "Manufacturer Part": "0603WAF1503T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C22807"
+          }
+        ],
+        [
+          "100kΩ",
+          2,
+          "R0603",
+          "R4,R5",
+          {
+            "Manufacturer Part": "0603WAF1003T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C25803"
+          }
+        ],
+        [
+          "0Ω",
+          26,
+          "R0402",
+          "R7,R8,R14,R15,R16,R17,R20,R21,R22,R23,R24,R26,R27,R28,R29,R30,R31,R32,R33,R34,R35,R36,R37,R38,R39,R40",
+          {
+            "Manufacturer Part": "0402WGF0000TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C17168"
+          }
+        ],
+        [
+          "1kΩ",
+          5,
+          "R0603",
+          "R9,R10,R44,R45,R46",
+          {
+            "Manufacturer Part": "0603WAF1001T5E",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C21190"
+          }
+        ],
+        [
+          "2kΩ",
+          1,
+          "R0402",
+          "R25",
+          {
+            "Manufacturer Part": "0402WGF2001TCE",
+            "Manufacturer": "UNI-ROYAL(厚声)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C4109"
+          }
+        ],
+        [
+          "SK12D07VG4",
+          1,
+          "SW-TH_SK12D07VG4",
+          "SW1",
+          {
+            "Manufacturer Part": "SK12D07VG4",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C393937"
+          }
+        ],
+        [
+          "BOOT",
+          1,
+          "SW-SMD_ST-1185SE",
+          "SW2",
+          {
+            "Manufacturer Part": "ST-1185SE",
+            "Manufacturer": "RISHENG(日昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C589193"
+          }
+        ],
+        [
+          "RESET",
+          1,
+          "SW-SMD_ST-1185SE",
+          "SW3",
+          {
+            "Manufacturer Part": "ST-1185SE",
+            "Manufacturer": "RISHENG(日昇)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C589193"
+          }
+        ],
+        [
+          "SY8088IAAC",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL",
+          "U1",
+          {
+            "Manufacturer Part": "SY8088IAAC",
+            "Manufacturer": "silergy(矽力杰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C479072"
+          }
+        ],
+        [
+          "MCP23017-E/SO",
+          1,
+          "SOIC-28_L18.0-W7.5-P1.27-LS10.3-BL",
+          "U2",
+          {
+            "Manufacturer Part": "MCP23017-E/SO",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C47023"
+          }
+        ],
+        [
+          "JACK DC",
+          1,
+          "BARREL JACK DC",
+          "U3",
+          {
+            "Manufacturer Part": "",
+            "Manufacturer": "",
+            "Supplier": "",
+            "Supplier Part": ""
+          }
+        ],
+        [
+          "AMS1117-5.0",
+          1,
+          "SOT-223-4_L6.5-W3.5-P2.30-LS7.0-BR",
+          "U4",
+          {
+            "Manufacturer Part": "AMS1117-5.0",
+            "Manufacturer": "KEXIN(科信)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C489390"
+          }
+        ],
+        [
+          "ME6211C28M5G",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U5",
+          {
+            "Manufacturer Part": "ME6211C28M5G-N",
+            "Manufacturer": "MICRONE(南京微盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53099"
+          }
+        ],
+        [
+          "ME6211C15M5G",
+          1,
+          "SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BR",
+          "U7",
+          {
+            "Manufacturer Part": "ME6211C15M5G-N",
+            "Manufacturer": "MICRONE(南京微盟)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C53100"
+          }
+        ],
+        [
+          "4x4 Matrix Keypad",
+          1,
+          "HDR-TH_10P-P2.54-V-F",
+          "U6",
+          {
+            "Manufacturer Part": "PM2.54-1*10",
+            "Manufacturer": "ZHOURI(洲日)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5116489"
+          }
+        ],
+        [
+          "ESP32-S3-WROOM-1U-N16R8",
+          1,
+          "WIRELM-SMD_ESP32-S3-WROOM-1U",
+          "U8",
+          {
+            "Manufacturer Part": "ESP32-S3-WROOM-1U-N16R8",
+            "Manufacturer": "ESPRESSIF(乐鑫)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3013946"
+          }
+        ],
+        [
+          "PC817C-S",
+          1,
+          "SOP-4_L6.5-W4.6-P2.54-LS10.3-TL",
+          "U9",
+          {
+            "Manufacturer Part": "PC817C-S",
+            "Manufacturer": "UMW(友台半导体)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C3008369"
+          }
+        ],
+        [
+          "S8050-MS",
+          1,
+          "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+          "U10",
+          {
+            "Manufacturer Part": "S8050-MS",
+            "Manufacturer": "MSKSEMI(美森科)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C5120746"
+          }
+        ],
+        [
+          "YLED0603R",
+          1,
+          "LED0603-FD",
+          "U11",
+          {
+            "Manufacturer Part": "YLED0603R",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171390"
+          }
+        ],
+        [
+          "RED",
+          1,
+          "LED0603-FD",
+          "U12",
+          {
+            "Manufacturer Part": "YLED0603R",
+            "Manufacturer": "YONGYUTAI(永裕泰)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C19171390"
+          }
+        ],
+        [
+          "MICROXNJ",
+          1,
+          "MICRO-USB-SMD_MICROXNJ",
+          "USB1",
+          {
+            "Manufacturer Part": "MicroXNJ",
+            "Manufacturer": "SHOU HAN(首韩)",
+            "Supplier": "LCSC",
+            "Supplier Part": "C404969"
+          }
+        ]
+      ],
+      "updateTime": 1731468219,
+      "createTime": 1727939501,
+      "histories": [],
+      "created_at": "2024-10-03 14:11:41",
+      "updated_at": "2024-11-13 10:23:39"
+    }
+  ],
+  "sort": [],
+  "title": "face_attendance_hw",
+  "foldername": "face_attendance_hw",
+  "schfilename": "face_attendance_hw.json",
+  "schfilemtime": 1728526976723
+}
